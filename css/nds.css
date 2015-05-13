@@ -12,6 +12,15 @@ header {
 	padding-right: 25px;
 	
 	color: #F8F8FF;
+
+    position: relative;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 h1,h2,h3,h4,h5,h6 {
